@@ -50,8 +50,8 @@ Este é um projeto desenvolvido com o framework [NestJS](https://nestjs.com/) qu
 1. Clone o repositório:
 
 ```bash
-$ git clone https://github.com/seu-usuario/seu-projeto.git
-$ cd seu-projeto
+$ git clone https://github.com/AranPrado/task-project.git
+$ cd task-project
 ```
 ## Instale as dependências:
 
